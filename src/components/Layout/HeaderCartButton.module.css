@@ -57,3 +57,19 @@
     transform: scale(1);
   }
 }
+
+
+@media (max-width: 480px) {
+  .button {
+    margin-left: 26px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 19px;
+  }
+
+  .badge {
+    padding-right: 9px;
+    padding-left: 9px;
+  }
+  
+}
