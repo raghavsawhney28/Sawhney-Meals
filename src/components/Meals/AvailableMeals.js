@@ -12,7 +12,7 @@ const AvailableMeals = () => {
     const fetchMeals = async () => {
       setIsLoading(true);
       const response = await fetch(
-        "https://react-http-78e62-default-rtdb.firebaseio.com/meals.json"
+        "https://btcusdt-382313-default-rtdb.firebaseio.com/meals.json"
       );
 
       if (!response.ok) {
