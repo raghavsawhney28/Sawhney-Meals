@@ -21,6 +21,7 @@ const Cart = (props) => {
 
   const cartItemAddHandler = (item) => {
     cartCtx.addItem(item);
+    
   };
 
   const orderHandler = () => {
