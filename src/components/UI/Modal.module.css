@@ -25,6 +25,7 @@
   .modal {
     width: 40rem;
     left: calc(50% - 20rem);
+    
   }
 }
 
@@ -38,3 +39,14 @@
     transform: translateY(0);
   }
 }
+
+@media (max-width: 480px) {
+  .modal {
+    top: 2vh;
+    
+    
+    
+    
+  }
+}
+
