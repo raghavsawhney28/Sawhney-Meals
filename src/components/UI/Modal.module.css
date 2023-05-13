@@ -42,7 +42,7 @@
 
 @media (max-width: 480px) {
   .modal {
-    top: 2vh;
+    top: 0.001vh;
     
     
     
