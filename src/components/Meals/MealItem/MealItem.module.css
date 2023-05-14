@@ -20,3 +20,15 @@
   color: #ad5502;
   font-size: 1.25rem;
 }
+
+.image {
+   width: 856px;
+   margin: 0.01px;
+   border-radius: 15px;
+}
+
+@media (max-width: 480px) {
+  .image {
+    width: 320px;
+  }
+}

@@ -1,5 +1,6 @@
 .form {
-  text-align: right;
+  text-align: left;
+  
 }
 
 .form button {
@@ -11,6 +12,7 @@
   padding: 0.25rem 2rem;
   border-radius: 20px;
   font-weight: bold;
+  
 }
 
 .form button:hover,
