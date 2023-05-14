@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sawhney-Meals/static/css/main.b763226d.css",
-    "main.js": "/Sawhney-Meals/static/js/main.7b4b8dd9.js",
+    "main.css": "/Sawhney-Meals/static/css/main.5ea2ce48.css",
+    "main.js": "/Sawhney-Meals/static/js/main.e22661d3.js",
     "static/media/meals.jpg": "/Sawhney-Meals/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/Sawhney-Meals/index.html",
-    "main.b763226d.css.map": "/Sawhney-Meals/static/css/main.b763226d.css.map",
-    "main.7b4b8dd9.js.map": "/Sawhney-Meals/static/js/main.7b4b8dd9.js.map"
+    "main.5ea2ce48.css.map": "/Sawhney-Meals/static/css/main.5ea2ce48.css.map",
+    "main.e22661d3.js.map": "/Sawhney-Meals/static/js/main.e22661d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.b763226d.css",
-    "static/js/main.7b4b8dd9.js"
+    "static/css/main.5ea2ce48.css",
+    "static/js/main.e22661d3.js"
   ]
 }
