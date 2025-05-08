@@ -3,14 +3,14 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      <h2>Handpicked Meals, Crafted With Love 💖
+</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+        Relive our special moments with every bite. This menu isn't just food — it’s a memory of us — recreated with your favorite dishes from that one perfect date.
+From cozy comfort bites to the burger you ordered with that adorable smile, everything is cooked with care, high-quality ingredients, and a whole lot of love.
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        Because you deserve to taste happiness — just like that day. 🍔🌸
       </p>
     </section>
   );
