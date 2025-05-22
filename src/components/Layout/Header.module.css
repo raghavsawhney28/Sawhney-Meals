@@ -15,6 +15,33 @@
   font-size: 13px;
   
 }
+.image {
+  position: fixed;
+  top: 0;
+  left: 6%;
+  width:3%;
+  height: 5rem;
+  background-color: #8a2b06;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+  font-size: 13px;
+  border-radius: 20px;
+  
+}
+@media (max-width: 480px) {
+  .image {
+    left: 42%;
+    width: 17%;
+  }
+
+  
+  
+}
 
 .main-image {
   width: 100%;
