@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sawhney-Meals/static/css/main.f14b5558.css",
+    "main.js": "/Sawhney-Meals/static/js/main.66f3e15e.js",
+    "static/media/meals.jpg": "/Sawhney-Meals/static/media/meals.25c80ae2c0330859cb85.jpg",
+    "static/media/khyatumeals.jpg": "/Sawhney-Meals/static/media/khyatumeals.b6969ba4e9843fedf0d7.jpg",
+    "index.html": "/Sawhney-Meals/index.html",
+    "main.f14b5558.css.map": "/Sawhney-Meals/static/css/main.f14b5558.css.map",
+    "main.66f3e15e.js.map": "/Sawhney-Meals/static/js/main.66f3e15e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14b5558.css",
+    "static/js/main.66f3e15e.js"
+  ]
+}
