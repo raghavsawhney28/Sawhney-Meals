@@ -5,7 +5,7 @@
   width: 100%;
   height: 5rem;
   background-color: #8a2b06;
-  color: white;
+  color: rgb(250, 250, 250);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -15,7 +15,7 @@
   font-size: 13px;
   
 }
-<<<<<<< HEAD
+
 .image {
   position: fixed;
   top: 0;
@@ -43,8 +43,7 @@
   
   
 }
-=======
->>>>>>> f9f87f1f40b665408eff9800f6d7e7bcbacffd8c
+
 
 .main-image {
   width: 100%;
