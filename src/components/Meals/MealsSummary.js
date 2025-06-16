@@ -3,14 +3,13 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Handpicked Meals, Crafted With Love 💖
+      <h2>Handpicked Meals, Crafted With Love
 </h2>
       <p>
-        Relive our special moments with every bite. This menu isn't just food — it’s a memory of us — recreated with your favorite dishes from that one perfect date.
-From cozy comfort bites to the burger you ordered with that adorable smile, everything is cooked with care, high-quality ingredients, and a whole lot of love.
+        Welcome to Sawhney Meals — a simple and delightful food ordering experience made for moments that matter. Whether you're craving comfort food or planning a cozy night in, our app lets you explore the menu, add favorites to your cart, and place your order with ease.
       </p>
       <p>
-        Because you deserve to taste happiness — just like that day. 🍔🌸
+        Because you deserve to taste happiness
       </p>
     </section>
   );
